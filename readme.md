@@ -35,7 +35,7 @@ What does this script do?
 1. Clone the repository:
 ```bash
 git clone this repo
-cd gmail-rules-automation
+cd gmail-script
 ```
 
 2. Install required packages:
