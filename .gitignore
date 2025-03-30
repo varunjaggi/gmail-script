@@ -1,0 +1,10 @@
+cred.json
+token.pickle
+emails.db
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz

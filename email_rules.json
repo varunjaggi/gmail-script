@@ -1,0 +1,21 @@
+{
+    "rules": [
+        {
+            "name": "Test Rule",
+            "match_type": "all",  
+            "conditions": [
+                {
+                    "field": "sender",
+                    "operator": "contains",
+                    "value": "mail.beehiiv.com"
+                }
+            ],
+            "actions": [
+                {
+                    "type": "move_message",
+                    "folder_id": "test"
+                }
+            ]
+        }
+    ]
+}
